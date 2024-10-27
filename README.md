@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afsa Banu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at https://afsabanuportfolio.netlify.app](https://afsabanuportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://afsabanuportfolio.netlify.app](https://afsabanuportfolio.netlify.app)
 
 - 📫 How to reach me **afsabanu01@gmail.com**
 
